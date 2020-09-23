@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Example>
+	<SecondNode type="thirdie">
+		<ThirdNode id="1">The ID of me is 1</ThirdNode>
+		<ThirdNode id="2">The ID of me is 2</ThirdNode>
+		<ThirdNode id="3">The ID of me is 3</ThirdNode>
+	</SecondNode>
+	<SecondNode type="fourdie">
+		<ForthNode id="1" order="2" safe="no">Since it has text, it's not safe..lol</ForthNode>
+		<ForthNode id="2" order="3" safe="no">Since it has text, it's not safe..lol</ForthNode>
+		<ForthNode id="3" order="1" safe="yes"/>
+	</SecondNode>
+</Example>
